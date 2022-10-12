@@ -19,7 +19,11 @@ input, button, textarea, select { font: inherit }
 body { 
     text-align: center;
     font-family: sans-serif;
-    background-image: url("Klayton13.github.io/assets/img/1186607.jpg");
+    background-image: url("/Klayton13.github.io/assets/img/1186607.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 h1 {
