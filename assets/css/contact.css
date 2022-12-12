@@ -1,0 +1,8 @@
+#contact-form p a:focus { color: var(--teal-300) }
+#contact-form p a:hover { color: var(--teal-300) }
+#contact-form p:active { color: var(--teal-300) }
+#contact-form #btn-submit:focus { color: var(--teal-400) }
+#contact-form #btn-submit:hover { color: var(--teal-400) }
+#contact-form { background-color: var(--gray-100) }
+#container-contact-form { background-color: var(--gray-900) }
+
